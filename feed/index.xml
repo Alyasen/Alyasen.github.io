@@ -13,7 +13,7 @@
 	<link>/</link>
 	<description>Сайт телекомпании</description>
 	<lastBuildDate>
-	Fri, 29 Mar 2019 04:23:22 +0000	</lastBuildDate>
+	Fri, 29 Mar 2019 10:32:02 +0000	</lastBuildDate>
 	<language>ru-RU</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -21,6 +21,40 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.1.1</generator>
 	<item>
+		<title>Запись с картинкой</title>
+		<link>/2019/03/29/11/</link>
+				<pubDate>Fri, 29 Mar 2019 10:32:02 +0000</pubDate>
+		<dc:creator><![CDATA[adm]]></dc:creator>
+				<category><![CDATA[Новости]]></category>
+
+		<guid isPermaLink="false">/?p=11</guid>
+				<description><![CDATA[Сейчас добавлю картинку. Это чтобы понимать, подгружаются сюда картинки или нет. Хотя и так понятно, что подгружаются, но написать-то что-то надо. Вот и пишу. Это была запись с картинкой.]]></description>
+								<content:encoded><![CDATA[
+<p>Сейчас добавлю картинку. Это чтобы понимать, подгружаются сюда картинки или нет. Хотя и так понятно, что подгружаются, но написать-то что-то надо. Вот и пишу.</p>
+
+
+
+<figure class="wp-block-image"><img src="/wp-content/uploads/2019/03/aerial-shot-beach-bird-s-eye-view-2017299-1024x683.jpg" alt="Кусок моря и кусок суши." class="wp-image-12" srcset="/wp-content/uploads/2019/03/aerial-shot-beach-bird-s-eye-view-2017299-1024x683.jpg 1024w, /wp-content/uploads/2019/03/aerial-shot-beach-bird-s-eye-view-2017299-300x200.jpg 300w, /wp-content/uploads/2019/03/aerial-shot-beach-bird-s-eye-view-2017299-768x512.jpg 768w, /wp-content/uploads/2019/03/aerial-shot-beach-bird-s-eye-view-2017299-1568x1045.jpg 1568w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Кусок суши и кусок воды.</figcaption></figure>
+
+
+
+<p>Это была запись с картинкой.</p>
+]]></content:encoded>
+										</item>
+		<item>
+		<title>Вторая запись</title>
+		<link>/2019/03/29/9/</link>
+				<pubDate>Fri, 29 Mar 2019 10:27:08 +0000</pubDate>
+		<dc:creator><![CDATA[adm]]></dc:creator>
+				<category><![CDATA[Новости]]></category>
+
+		<guid isPermaLink="false">/?p=9</guid>
+				<description><![CDATA[Это вторая тестовая запись. Это слова, которые идут во второй записи. Вы сейчас их читаете. Это значит, что вы умеете читать. Но скоро слова закончатся, а с нею закончится и эта запись. Потом закончится что-нибудь ещё. Так и жизнь пройдёт.]]></description>
+								<content:encoded><![CDATA[
+<p class="has-background has-primary-background-color">Это вторая тестовая запись. Это слова, которые идут во второй записи. Вы сейчас их читаете. Это значит, что вы умеете читать. Но скоро слова закончатся, а с нею закончится и эта запись. Потом закончится что-нибудь ещё. Так и жизнь пройдёт.</p>
+]]></content:encoded>
+										</item>
+		<item>
 		<title>Привет, мир!</title>
 		<link>/2019/03/29/1/</link>
 				<comments>/2019/03/29/1/#comments</comments>
