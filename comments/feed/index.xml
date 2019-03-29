@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Комментарии на сайте Телемикс 10	</title>
+	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Сайт телекомпании</description>
+	<lastBuildDate>
+	Fri, 29 Mar 2019 04:23:22 +0000	</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.1.1</generator>
+			<item>
+				<title>
+				Комментарий к записи Привет, мир! (Автор комментария)				</title>
+				<link>/2019/03/29/1/#comment-1</link>
+		<dc:creator><![CDATA[Автор комментария]]></dc:creator>
+		<pubDate>Fri, 29 Mar 2019 04:23:22 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1#comment-1</guid>
+					<description><![CDATA[Привет! Это комментарий.
+Чтобы начать модерировать, редактировать и удалять комментарии, перейдите на экран «Комментарии» в консоли.
+Аватары авторов комментариев загружаются с сервиса &lt;a href=&quot;https://ru.gravatar.com&quot;&gt;Gravatar&lt;/a&gt;.]]></description>
+		<content:encoded><![CDATA[<p>Привет! Это комментарий.<br />
+Чтобы начать модерировать, редактировать и удалять комментарии, перейдите на экран «Комментарии» в консоли.<br />
+Аватары авторов комментариев загружаются с сервиса <a href="https://ru.gravatar.com/">Gravatar</a>.</p>
+]]></content:encoded>
+						</item>
+			</channel>
+</rss>
